@@ -1,0 +1,41 @@
+#Pub {
+    background-image: url(/ImgGlobal/vente-location.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#vehicule3 {
+    background-image: url(/ImgGlobal/vehicule3.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.accessibility {
+    position: absolute;
+    left: -15000px;
+}
+
+.ca-logo-size{
+    block-size: 65px;
+}
+
+.ca-text-footer{
+    font-size: 130%;
+}
+
+body{
+    overflow-x:hidden
+}
+
+#bg-contact {
+    background-image: url(/ImgGlobal/vehicule3.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: top;
+}
+
+#bg-location {
+    background-image: url(/ImgGlobal/vente-location.jpg);
+    background-size: cover;
+    background-position: center;
+}
