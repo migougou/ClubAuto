@@ -38,4 +38,38 @@ body{
     background-image: url(/ImgGlobal/vente-location.jpg);
     background-size: cover;
     background-position: center;
+    
+}
+
+#vehicule2 {
+    background-image: url(/ImgGlobal/vehicule2.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 319px;
+    display: flex;
+    justify-content: end;
+    align-items: flex-end;
+}
+
+@media screen and (max-width:576px){
+    .clubAuto{font-size: 74px !important}
+    
+}
+
+@media screen and (max-width:576px){
+    .rechercher{widht: 100% !important}
+    
+}
+
+.aside{
+    z-index: 10;
+}
+
+#merci {
+    background-image: url(/ImgGlobal/vehicule3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
 }
