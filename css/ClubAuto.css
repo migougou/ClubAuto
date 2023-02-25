@@ -15,16 +15,16 @@
     left: -15000px;
 }
 
-.ca-logo-size{
+.ca-logo-size {
     block-size: 65px;
 }
 
-.ca-text-footer{
+.ca-text-footer {
     font-size: 130%;
 }
 
-body{
-    overflow-x:hidden
+body {
+    overflow-x: hidden
 }
 
 #bg-contact {
@@ -38,7 +38,7 @@ body{
     background-image: url(/ImgGlobal/vente-location.jpg);
     background-size: cover;
     background-position: center;
-    
+
 }
 
 #vehicule2 {
@@ -52,17 +52,21 @@ body{
     align-items: flex-end;
 }
 
-@media screen and (max-width:576px){
-    .clubAuto{font-size: 74px !important}
-    
+@media screen and (max-width:576px) {
+    .clubAuto {
+        font-size: 50px !important
+    }
+
 }
 
-@media screen and (max-width:576px){
-    .rechercher{widht: 100% !important}
-    
+@media screen and (max-width:576px) {
+    .rechercher {
+        width: 100% !important
+    }
+
 }
 
-.aside{
+.aside {
     z-index: 10;
 }
 
