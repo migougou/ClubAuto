@@ -35,14 +35,14 @@ body {
 }
 
 #bg-location {
-    background-image: url(imgGlobal/vente-location.jpg);
+    background-image: url(/imgGlobal/vente-location.jpg);
     background-size: cover;
     background-position: center;
 
 }
 
 #vehicule2 {
-    background-image: url(imgGlobal/vehicule2.jpg);
+    background-image: url(/imgGlobal/vehicule2.jpg);
     background-size: cover;
     background-position: center;
     width: 100%;
@@ -71,7 +71,7 @@ body {
 }
 
 #merci {
-    background-image: url(imgGlobal/vehicule3.jpg);
+    background-image: url(/imgGlobal/vehicule3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
