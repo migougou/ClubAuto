@@ -1,11 +1,11 @@
 #Pub {
-    background-image: url(imgGlobal/vente-location.jpg);
+    background-image: url(/imgGlobal/vente-location.jpg);
     background-size: cover;
     background-position: center;
 }
 
 #vehicule3 {
-    background-image: url(imgGlobal/vehicule3.jpg);
+    background-image: url(/imgGlobal/vehicule3.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -28,7 +28,7 @@ body {
 }
 
 #bg-contact {
-    background-image: url(imgGlobal/vehicule3.jpg);
+    background-image: url(/imgGlobal/vehicule3.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: top;
